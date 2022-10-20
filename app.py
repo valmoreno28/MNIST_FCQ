@@ -23,4 +23,6 @@ if uploaded_file is not None:
     st.write("Esta planta es Rain Lily")
   if label == 4:
      st.write("Zinnia Elegans")
+      
+st.image(uploaded_file)
   #st.write(label)
